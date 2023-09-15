@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.mukesh.devops.blogs</groupId>
 	<artifactId>cidemo</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>cidemo</name>
 	<description>CI Demo project for Spring Boot</description>
 	<properties>
@@ -44,7 +44,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/Mukezz/CIDemoBlog2.git</developerConnection>
-	  <tag>cidemo-0.0.2</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
